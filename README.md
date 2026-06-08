@@ -1,4 +1,4 @@
-# 🔐 Password Strength Analyzer
+# 🔐 PassShield
 
 A simple and user-friendly web application that analyzes the strength of a password based on various security criteria and suggests improvements for weak passwords.
 
@@ -69,9 +69,9 @@ Password-Strength-Analyzer/
 
 ---
 
-##Live Demo
+## Live Demo
 
-> GUHAN-R2987.github.io/PassShield/
+> https://GUHAN-R2987.github.io/PassShield/
 
 ## 🚀 How to Run
 
